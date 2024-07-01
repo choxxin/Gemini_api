@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+body {
+  background: linear-gradient(
+    rgba(255, 255, 255, 0.856),
+    rgba(223, 249, 253, 0.925)
+  );
+
+  background-repeat: no-repeat;
+  background-size: center;
+  background-position: center;
+}
